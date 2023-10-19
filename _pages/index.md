@@ -7,7 +7,7 @@ permalink: /
 
 # Welcome! 🌱
 
-<p style="padding: 3em 1em; background: #f79d0082; border-radius: 15px;">
+<p style="padding: 3em 3em; background: #5600f747; border-radius: 15px;">
   This is Garyoung Kim's HCI Class Scrapbook!<br>
   Take a look at <span style="font-weight: bold">[[Case studies]]</span> to get started on your exploration.
 </p>
