@@ -1,0 +1,23 @@
+- problem space: a set of every possible solution/path
+- 문제를 이해하는 4가지 요소
+	 - initial state 초기상태
+	- goal state 목표상태
+	- operator 조작자
+	- path constraint 제한조건
+- 해당 문제에 대한 표상 problem representation 을 구축하는 단계: 
+	- 조작자가 제한 조건에 따라 초기상태에서 목표상태로 나아가는 과정
+- solution/design space 
+
+- 심성모형: 사람의 마음 속에 가지고 있는 (추상화해서 표현된) 지식구조
+- 심성모형의 3 특징
+	- 사람에 따라, 관점에 따라 동일한 대상에 대해서도 상이한 심성모형을 가질 수 있다
+	- 동적이다 = 머릿속에서 가상으로 작동시켜볼 수 있다
+	- 불완전하고 상충적일 수 있다 (1의 특징과 연결)
+
+- 심성모형의 유형
+	- 구조모형 structural model / surrogate model: 시스템이 구체적으로 어떤 세부 요소들로 구성되어 있는지를 묘사
+		- 카메라 구조모형, 스카이뷰 서비스 구조모형 
+	- 기능모형 functional model / task-action model: 사람들이 시스템을 어떻게 사용하는지에 대한 모형(사용자가 느끼는/인식하는)
+		- 
+	- 가치모형 value model: 사용자가 시스템이 자신에게 어떠한 가치를 제공해 줄 것이라고 생각하는 심성모형. 가장 추상적
+		- 

@@ -1,0 +1,8 @@
+- usability
+	- 기본적 차원
+		- efficiency
+		- accuracy
+	- 부수적 차원
+		- meaningfulness
+		- flexibility
+		- consistency
