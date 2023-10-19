@@ -1,4 +1,4 @@
-<img src="/assets/clinic.png">
+<img src="/assets/clinic1.png">
 ## I. Introduction
 English clinic reservation is a service that offers undergraduates and graduates in KAIST to use a 25 minute face-to-face or online consultation for english speaking and writing for free. Student can prepare for interviews, feedback on emails, essays, presentations, test preparation or general conversation.
 ## II. Issues and Challenges
