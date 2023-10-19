@@ -7,7 +7,7 @@ The reMarkable is marketd as a digital note-taking device that simulates the exp
 - **slow interface** 
 ## III. Proposed Solutions
 -  offer some options for accessories that could help protect the screen. 
-## IV. Plus,
+## IV. Plus
 Despite its high cosst and sluggish interface, this product holds its own value, providing a low-stress reading experience for the eye akins to a Kindle, alongside its lightweight design and intuitive interface. I think these advantages are worthy enough to use. Personally, it seems that this is a case that shows power of user experience. 
 
 
